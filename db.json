@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": "2",
+      "name": "Thỏ",
+      "avatar": "/images/th.jpg",
+      "price": "620.00",
+      "quantity": 15
+    },
+    {
+      "name": "thỏ dễ thương nhất hành tinh",
+      "avatar": "/images/tho.jpg",
+      "price": "330.00",
+      "quantity": 76,
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "thỏ bé nhỏ",
+      "avatar": "/images/thodt.jpg",
+      "price": "551.00",
+      "quantity": 5
+    },
+    {
+      "id": "9",
+      "name": "tui là thỏ",
+      "avatar": "/images/1836140434.jpg",
+      "price": "64.00",
+      "quantity": 53
+    },
+    {
+      "name": "thỏ nè",
+      "avatar": "/images/tho.jpg",
+      "price": "120000",
+      "quantity": "2",
+      "id": "-80aIcv"
+    },
+    {
+      "name": "chú thỏ nhỏ",
+      "avatar": "/images/ratbit.JPG",
+      "price": "20000",
+      "quantity": "3",
+      "id": "S0JpEC3"
+    },
+    {
+      "name": "Thỏ cute",
+      "avatar": "/images/cute.JPG",
+      "price": "340000",
+      "quantity": "100",
+      "id": "MxyqIqo"
+    },
+    {
+      "name": "tui là một chú thỏ",
+      "avatar": "/images/thodt.jpg",
+      "price": "11111",
+      "quantity": "3",
+      "id": "_Zt8xpX"
+    },
+    {
+      "name": "di",
+      "avatar": "/images/cute.jpg",
+      "price": "11111111111111",
+      "quantity": "1",
+      "id": "xHOeFtq"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "nga.mai",
+      "avatar": "/images/tho.JPG",
+      "email": "maithinga1906@gmail.com",
+      "phone_number": "123456",
+      "address": "Quang Binh",
+      "password": "nga123456"
+    },
+    {
+      "username": "di",
+      "avatar": "/images/cute.jpg",
+      "email": "maithinga2000@gmail.com",
+      "phone_number": "15975325",
+      "address": "Quang Binh",
+      "password": "dinhi",
+      "id": "l_w_HmL"
+    },
+    {
+      "username": "nga",
+      "avatar": "/images/ratbit.jpg",
+      "email": "maithinga2000@gmail.com",
+      "phone_number": "1475286",
+      "address": "",
+      "password": "123",
+      "id": "iMYQjin"
+    }
+  ]
+}
